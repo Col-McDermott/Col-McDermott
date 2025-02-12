@@ -1,4 +1,4 @@
-- @Col-McDermott -- CS & Math Student at Middlebury College
+- @Col-McDermott -- Student at Middlebury College: Computer Science major, Mathematics minor
 -  Reach me at: cmcdermott@middlebury.edu
 
 <!---
